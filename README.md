@@ -2,7 +2,7 @@
 Sign language translation is a non-trivial task of interpreting
 text sequences from video sequences. Like other translation
 problems, the input word order is usually not the same as
-the output word order. To solve this problem, we need a model
+the output word order. To solve this, we need a model
 that takes as input videos containing
 sign language sentences and outputs a translation text, so this is a sequence to sequence problem
 
